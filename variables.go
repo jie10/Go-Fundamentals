@@ -1,4 +1,4 @@
-// Declare the package `main` is in. This is the entry point for the program execution
+// Package variables Declare the package `variables` is in. This is the entry point for the program execution
 package main
 
 // Import required package fmt, which includes functions for printing output to console among others
